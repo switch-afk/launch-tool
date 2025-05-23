@@ -13,7 +13,7 @@ export const CONFIG = {
 
   // Pinata IPFS settings
   PINATA: {
-    JWT: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiIwOGU1YTkyNi04MzBlLTQxMWQtYjhlNC02OTczOWUyOGM2MWIiLCJlbWFpbCI6ImNvbnRhY3RAZGl2eWF0ZWphLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxLCJpZCI6IkZSQTEifSx7ImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxLCJpZCI6Ik5ZQzEifV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiIzMDRlYjkzZWE0YzFhNTRkODQ2YiIsInNjb3BlZEtleVNlY3JldCI6ImJmNzBhNmZjMTIxZTZmYTBhZGZjNzQ5ZTkxNzRjNjk3M2U4OWVmZjFjMjFlNzg1OTFjYzhlNWZlODU1NjAwZDciLCJleHAiOjE3Nzk1MzU1NTV9.-evcGgBZBMIpBFCgOYN_Aehv7L1U_X5b-Mq_urjvs6g",
+    JWT: "enter your pinata JWT here",
     API_URL: "https://api.pinata.cloud/pinning/pinJSONToIPFS",
     GATEWAY: "https://gateway.pinata.cloud/ipfs/"
   },
