@@ -13,7 +13,7 @@ export const CONFIG = {
 
   // Pinata IPFS settings
   PINATA: {
-    JWT: "enter your pinata JWT here",
+    JWT: "your-pinata-jwt-token-here",
     API_URL: "https://api.pinata.cloud/pinning/pinJSONToIPFS",
     GATEWAY: "https://gateway.pinata.cloud/ipfs/"
   },
